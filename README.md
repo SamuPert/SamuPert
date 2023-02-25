@@ -12,7 +12,6 @@ I'm a recent graduate in Computer and Automation Engineering with a passion for 
 - 👥 I enjoy **collaborating** with others on **innovative projects** and love to discuss new ideas.
 - 🤝 I believe in **knowledge sharing** between people and enjoy helping others.
 
----
 
 ## Don't be shy. Let's connect!
 
@@ -23,7 +22,6 @@ Currently, I'm looking for an open-source project to contribute to, as I believe
 
 Don't hesitate to **connect with me** on LinkedIn or GitHub if you'd like to chat or collaborate on a project together!
 
----
 
 ## Contacts
 
