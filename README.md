@@ -2,7 +2,7 @@
 
 I'm a recent graduate in Computer and Automation Engineering with a passion for programming and tech.
 
-- 👨‍💻 I love to code in **Java**, **Javascript**, **Typescript**, **Python**, **PHP**.
+- 👨‍💻 I love to code in **Java**, **Javascript**, **Typescript**, **PHP**.
 - 🌩️ I'm a **cloud enthusiast**. I look forward to gaining experience working with **AWS**, **GCP** and **Azure**.
 - 💻 For my bachelor's degree thesis, I designed a **scalable** and **fault-tolerant** distributed system for exploit scheduling and execution, and flag submission in "Attack and Defense" CTF competitions.
 - 🏆 I have played **CTFs competitions** with *[InsHack@ti team](https://ctftime.org/team/83605)*.
