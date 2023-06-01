@@ -29,4 +29,4 @@ Let's connect and create something awesome together!
 
 ---
 
-![SamuPert's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuPert&show_icons=true)
+![SamuPert's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuPert&show_icons=true&count_private=true)
