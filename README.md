@@ -26,7 +26,3 @@ Let's connect and create something awesome together!
 
 - 📱 **LinkedIn:** [Samuele Perticarari](https://www.linkedin.com/in/samuele-perticarari/)
 - 📧 **Email:** [samuele.perticarari@gmail.com](mailto:samuele.perticarari@gmail.com)
-
----
-
-![SamuPert's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuPert&show_icons=true&count_private=true)
