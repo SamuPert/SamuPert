@@ -1,28 +1,21 @@
 # Hi there! 👋 I'm Samuele
 
-I'm a recent graduate in Computer and Automation Engineering with a passion for programming and tech.
+I'm a **Cloud Engineer at Deloitte Consulting** with experience in cloud infrastructure, migration and networking with coding background.
+Passionate about cloud technologies, automation, and infrastructure.
 
-- 👨‍💻 I love to code in **Java**, **Javascript**, **Typescript**, **PHP**.
-- 🌩️ I'm a **cloud enthusiast**. I look forward to gaining experience working with **AWS**, **GCP** and **Azure**.
-- 💻 For my bachelor's degree thesis, I designed a **scalable** and **fault-tolerant** distributed system for exploit scheduling and execution, and flag submission in "Attack and Defense" CTF competitions.
-- 🏆 I have played **CTFs competitions** with *[InsHack@ti team](https://ctftime.org/team/83605)*.
-- 👥 I enjoy **collaborating** with others on **innovative projects** and love to discuss new ideas.
-- 🤝 I believe in **knowledge sharing** between people and enjoy helping others.
+### 🚀 What I Do
+- ☁️ **Cloud & Infrastructure**: Working with **Azure**, exploring **AWS** and constantly expanding my cloud expertise.
+- 💻 **Thesis**: Designed a **scalable** and **fault-tolerant** distributed system for exploit scheduling and execution, and flag submission in "Attack and Defense" CTF competitions. ([Link](https://github.com/SamuPert/distributed-ctf-tool))
+- 👨‍💻 **Programming**: I love to code in **Java**, **Javascript**, **Typescript**, **Python**.
+- 🎓 **Certifications**:
+  - **(Planned for May 2025)** AZ-305 - Microsoft Certified: Azure Solutions Architect Expert
+  - **AZ-104 - Microsoft Certified: Azure Administrator Associate** (Credential ID: [86A967C848525E0C](https://learn.microsoft.com/api/credentials/share/en-us/SamuelePerticarari/86A967C848525E0C?sharingId=1EBB8B954FC2F25E))
+  - **AI-102 - Microsoft Certified: Azure AI Engineer Associate** (Credential ID: [9DD61E366AB584E0]([XXXX](https://learn.microsoft.com/api/credentials/share/en-us/SamuelePerticarari/9DD61E366AB584E0?sharingId=1EBB8B954FC2F25E)))
+  - MTCNA - MikroTik Certified Network Associate (Credential ID: [2107NA0586](https://mikrotik.com/training/certificates/b210586cebedd28fb1d7))
+  - MTCIPv6E - MikroTik Certified IPV6 Engineer (Credential ID: [2111IPv6E7163](https://mikrotik.com/training/certificates/b217163c4a7fd1d4bf6f))
 
+### 🤝 Let's Connect!
+I'm always open to **collaborating on cloud projects, open-source contributions, and innovative ideas**. If you're working on something exciting in cloud infrastructure or automation, I'd love to chat!
 
-## Don't be shy. Let's connect!
-
-I'm excited to collaborate with others on innovative projects, and I'm always looking to expand my network and **meet new people**.
-If you have a new project **idea** that you'd like to discuss, feel free to **reach out** and start a conversation.
-
-Currently, I'm looking for an open-source project to contribute to, as I believe in the power of open-source and its potential to drive innovation and positive change.
-
-Don't hesitate to **connect with me** on LinkedIn or via mail if you'd like to chat or collaborate on a project together!
-
-
-## Contacts
-
-Let's connect and create something awesome together!
-
-- 📱 **LinkedIn:** [Samuele Perticarari](https://www.linkedin.com/in/samuele-perticarari/)
-- 📧 **Email:** [samuele.perticarari@gmail.com](mailto:samuele.perticarari@gmail.com)
+📱 **LinkedIn**: [Samuele Perticarari](https://www.linkedin.com/in/samuele-perticarari/)
+📧 **Email**: [samuele.perticarari@gmail.com](mailto:samuele.perticarari@gmail.com)
